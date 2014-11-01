@@ -66,5 +66,5 @@ for (var i = 0; i < 100; i++){
 	}
 }
 
-console.log("If you do not switch you win " + noSwitchWins + " out of 100 times. If you do switch you win " + switchWins + " times.");
+console.log("If you do not switch you win " + noSwitchWins + " out of 100 times. If you do switch you win " + switchWins + " times. Switch! :)");
 
